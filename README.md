@@ -27,7 +27,7 @@ is built as an independent reusable React component.
 ---
 
 ## 🌍 Live Demo
-https://your-vercel-link.vercel.app
+https://sammunat-landing-indol.vercel.app/
 
 ---
 
