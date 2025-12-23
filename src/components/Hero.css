@@ -1,0 +1,27 @@
+.hero {
+  padding: 120px 20px;
+  text-align: center;
+  color: white;
+  background: linear-gradient(135deg, #2563eb, #9333ea);
+}
+
+.hero button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 6px;
+  background: white;
+  color: #2563eb;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    padding: 80px 16px;
+  }
+
+  .hero h1 {
+    font-size: 28px;
+  }
+}
